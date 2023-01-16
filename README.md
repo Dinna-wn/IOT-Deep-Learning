@@ -1,5 +1,7 @@
 # IOT-Deep-Learning
 
+Internet of things and deep learning in healthcare application : 
+
 The ECG signal is measured using a wearable sensor node allowing high-frequency noise suppression. The collected data is transferred to the computer, which performs processing, extraction of R peaks using Continuous wavelet Transform (CWT) and heart rhythm classification using CNN pre-trained model AlexNet.
 
 Our system is an ECG monitoring based on Internet-of-Things (IoT) , where ECG data are gathered using portable monitoring device and transmitted directly to computer for feature extraction and classification. 
